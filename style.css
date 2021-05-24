@@ -1,0 +1,46 @@
+body{
+	padding-top: 300px;
+	background-color:#edf0ee; 
+}
+.container
+{
+	vertical-align
+}
+h1
+{
+	display: flex;
+	align-content: center;
+	justify-content: center;
+
+	font-size: 80px;
+	font-family: verdana;
+}
+#value
+{
+
+	display: flex;
+	align-content: center;
+	justify-content: center;
+
+
+	font-size: 120px;
+	font-family: verdana;
+}
+
+
+.btn_container{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex:2;
+}
+
+#danger
+{
+	margin-right: 5px;
+}
+
+#success
+{
+	margin-left: 5px;
+}
